@@ -115,10 +115,10 @@ async def safe_edit(message, text, **kwargs):
   
 API_ID = 32143521
 API_HASH = '273161fdfe0b9256e1baca74825672fb'
-BOT_TOKEN = ''
+BOT_TOKEN = '9019817625:AAGHayUa7Al26vYMhdTav-Ynf_RT6QRHjdU'
 ADMIN_ID = [8866006557]
 CHECKER_NODES = [
-    'http://40.160.250.205/shopify',
+    'https://new-one.up.railway.app/shopii',
 ]
 
 _disabled_nodes: set = set()
