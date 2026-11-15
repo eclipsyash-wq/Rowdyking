@@ -113,10 +113,10 @@ async def safe_edit(message, text, **kwargs):
     return False
 
   
-API_ID = 05
-API_HASH = 'a6'
-BOT_TOKEN = 'mnDBuB6d6s'
-ADMIN_ID = [5]
+API_ID = 32143521
+API_HASH = '273161fdfe0b9256e1baca74825672fb'
+BOT_TOKEN = ''
+ADMIN_ID = [8866006557]
 CHECKER_NODES = [
     'http://40.160.250.205/shopify',
 ]
